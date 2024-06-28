@@ -1,0 +1,101 @@
+order_id,order_date,employee,region,category,sub_category,product,state,total_sales,closed_sales,pending_sales,on_hold_sales,in_hand_sales,profit,quantity
+cbda8602,2021-01-01 00:00:00.000000000,Caitlin Meyer,east,grocery,canned goods,sugar,Hawaii,114623,109334,361,448,4480,1362.75,2
+caab4190,2021-01-12 16:58:10.909090909,Ronald Smith,south,grocery,dairy,butter,Rhode Island,17256,16569,81,31,575,216.22,12
+ecea1127,2021-01-24 09:56:21.818181818,Melissa Wilson,north,grocery,dairy,butter,Ohio,29669,26731,524,69,2345,1520.5,2
+aeeb0905,2021-02-05 02:54:32.727272727,Matthew Woods,north,grocery,dairy,pasta,Iowa,33400,28287,744,335,4034,294.84,12
+eeab8212,2021-02-16 19:52:43.636363636,Eric Coleman,west,grocery,dairy,milk,Tennessee,24167,21703,230,71,2163,1478.05,14
+addc8824,2021-02-28 12:50:54.545454546,Richard Bryant,north,grocery,bakery,flour,Oregon,114275,108136,420,438,5281,1388.45,2
+ccea1853,2021-03-12 05:49:05.454545455,Joshua King,north,grocery,dairy,sugar,Washington,133271,127784,423,286,4778,549.66,2
+acee8237,2021-03-23 22:47:16.363636364,Rebecca Deleon,south,grocery,canned goods,rice,Virginia,132619,112657,3913,830,15219,474.88,19
+dbbc2861,2021-04-04 15:45:27.272727273,Omar Gregory,north,grocery,dairy,pasta,South Carolina,108297,88107,2883,1479,15828,1811.43,2
+eabe3373,2021-04-16 08:43:38.181818182,Patrick Buckley,north,grocery,bakery,eggs,Nebraska,130237,116041,2326,476,11394,1332.34,6
+eaaa2569,2021-04-28 01:41:49.090909092,Tara Boyd,south,grocery,bakery,bread,Arkansas,28457,23758,258,167,4274,1567.38,6
+eedd9427,2021-05-09 18:40:00.000000000,Jacob Haynes,south,grocery,bakery,flour,Minnesota,84708,74494,1415,238,8561,489.13,8
+eace5934,2021-05-21 11:38:10.909090910,Jeffrey Davis,north,grocery,snacks,pasta,Alabama,58370,52552,449,231,5138,132.99,16
+eebc8808,2021-06-02 04:36:21.818181818,Mark Patterson,east,grocery,canned goods,butter,Pennsylvania,72438,63703,1299,457,6979,494.28,10
+ebbe5784,2021-06-13 21:34:32.727272728,Debbie Alvarez,south,grocery,produce,pasta,New Jersey,49869,44951,802,97,4019,1247.68,10
+ccee1119,2021-06-25 14:32:43.636363636,Darren Lozano,north,grocery,produce,bread,North Carolina,85662,73075,989,925,10673,1110.15,20
+acae0415,2021-07-07 07:30:54.545454546,Vanessa Baker,east,grocery,canned goods,pasta,Nebraska,95854,82229,2101,1017,10507,856.45,11
+bcbb8477,2021-07-19 00:29:05.454545456,Terrance Perry,south,grocery,produce,butter,Arizona,46951,43027,343,230,3351,1995.19,9
+beec4759,2021-07-30 17:27:16.363636364,Timothy Torres,south,grocery,bakery,bread,Oregon,19527,15627,212,340,3348,292.54,12
+beac6204,2021-08-11 10:25:27.272727272,Miranda Patton,south,grocery,bakery,milk,Delaware,126988,119481,912,310,6285,1090.9,8
+bbbe2592,2021-08-23 03:23:38.181818184,Patrick Lopez,south,grocery,produce,rice,Washington,84170,68361,1835,755,13219,78.6,18
+ecab7317,2021-09-03 20:21:49.090909092,Jacob Haney,north,grocery,dairy,butter,Minnesota,132813,118537,1873,889,11514,1334.4,15
+dcbc8074,2021-09-15 13:20:00.000000000,Robert Harris,south,grocery,snacks,rice,Massachusetts,68141,64008,455,95,3583,1188.9,13
+cdca4495,2021-09-27 06:18:10.909090908,Elizabeth Hunt,north,grocery,bakery,bread,Wisconsin,134476,126438,1319,312,6407,50.59,19
+cbbd1316,2021-10-08 23:16:21.818181820,Brandon Mendoza,south,grocery,produce,bread,Maryland,70146,64196,447,216,5287,1102.67,2
+bbbe7243,2021-10-20 16:14:32.727272728,Linda Arias,east,grocery,produce,eggs,Minnesota,19142,18360,104,40,638,1778.44,15
+bcbb3633,2021-11-01 09:12:43.636363636,Anthony Romero,west,grocery,dairy,rice,Tennessee,71354,58281,2167,379,10527,1657.28,11
+edad3263,2021-11-13 02:10:54.545454548,Tammy Jimenez,north,grocery,snacks,eggs,Iowa,132039,105651,1913,1801,22674,1284.29,19
+deea1444,2021-11-24 19:09:05.454545456,James Carlson,north,grocery,produce,rice,Kansas,68586,65599,173,170,2644,106.95,18
+dbed4559,2021-12-06 12:07:16.363636364,Oscar Campbell Jr.,south,grocery,bakery,sugar,Minnesota,79637,77205,218,214,2000,1249.75,11
+dcda9869,2021-12-18 05:05:27.272727272,Erin Jones,west,grocery,bakery,eggs,Oregon,126448,123671,182,233,2362,395.38,4
+eeeb9450,2021-12-29 22:03:38.181818184,Natalie Mendoza,west,grocery,dairy,rice,Maryland,121263,118206,156,226,2675,470.59,1
+cecc7333,2022-01-10 15:01:49.090909092,Jeremy Henderson,west,grocery,bakery,flour,New Jersey,68668,59382,600,201,8485,611.51,16
+ebee5492,2022-01-22 08:00:00.000000000,Margaret Parker,east,grocery,bakery,flour,South Dakota,20724,18995,158,127,1444,679.24,20
+abba9675,2022-02-03 00:58:10.909090912,Matthew Cortez,west,grocery,produce,butter,Rhode Island,116269,100088,2331,1327,12523,811.54,4
+aedb2136,2022-02-14 17:56:21.818181820,Stacey Davis,east,grocery,dairy,pasta,Alaska,115930,96557,3863,608,14902,562.88,8
+bece5234,2022-02-26 10:54:32.727272728,Dana Cunningham,west,grocery,bakery,sugar,California,93810,92468,229,105,1008,445.76,1
+edcb8444,2022-03-10 03:52:43.636363640,Ricky Johnson,north,grocery,bakery,milk,Hawaii,63030,55510,595,325,6600,1605.51,4
+cded1786,2022-03-21 20:50:54.545454544,Gregory Bates,east,grocery,snacks,pasta,North Dakota,102574,97105,274,439,4756,1197.99,15
+cdae0730,2022-04-02 13:49:05.454545456,Valerie Ramirez,west,grocery,snacks,flour,Hawaii,61998,59046,242,242,2468,1424.51,12
+dbce4821,2022-04-14 06:47:16.363636368,Jeff Dennis,north,grocery,produce,sugar,Nebraska,109456,97074,1210,238,10934,209.82,20
+bdad5198,2022-04-25 23:45:27.272727272,Brandy Koch,west,grocery,produce,flour,Idaho,32307,29245,197,108,2757,1424.98,14
+edcb6393,2022-05-07 16:43:38.181818184,Erik Cantrell,east,grocery,produce,pasta,Maryland,110765,110635,16,7,107,180.71,15
+debb3940,2022-05-19 09:41:49.090909096,Raymond Burke,north,grocery,produce,sugar,Texas,80426,66606,1334,970,11516,107.65,20
+acea9502,2022-05-31 02:40:00.000000000,Keith Thomas,north,grocery,snacks,milk,South Dakota,78092,68109,1520,643,7820,443.06,12
+bacb8673,2022-06-11 19:38:10.909090912,Jason Harris Jr.,east,grocery,produce,rice,Pennsylvania,97148,91363,356,286,5143,108.14,2
+eada2729,2022-06-23 12:36:21.818181816,Shawn Bush MD,south,grocery,canned goods,sugar,Colorado,90923,77337,1364,963,11259,1025.79,4
+dcce9326,2022-07-05 05:34:32.727272728,Roger Morris,south,grocery,snacks,bread,Illinois,25350,21037,832,221,3260,1192.03,20
+eccb1095,2022-07-16 22:32:43.636363640,Daniel Lowe,south,grocery,canned goods,butter,Montana,50449,41172,1378,524,7375,102.94,16
+adcd5062,2022-07-28 15:30:54.545454544,Justin Peterson,north,grocery,snacks,flour,Tennessee,89638,87975,171,125,1367,1809.42,6
+eede0430,2022-08-09 08:29:05.454545456,Caitlin Meyer,north,grocery,produce,milk,Florida,47669,39755,884,533,6497,1892.13,20
+bebe0370,2022-08-21 01:27:16.363636368,Ronald Smith,west,grocery,produce,bread,Kentucky,31237,30944,17,23,253,641.51,14
+ecca3144,2022-09-01 18:25:27.272727272,Melissa Wilson,west,grocery,snacks,bread,Alaska,108256,94495,2344,741,10676,755.54,19
+edca6514,2022-09-13 11:23:38.181818184,Matthew Woods,north,grocery,bakery,rice,Kansas,69944,62161,1475,188,6120,353.36,1
+eeca6707,2022-09-25 04:21:49.090909096,Eric Coleman,east,grocery,dairy,flour,Montana,94860,78725,967,345,14823,596.23,14
+edad8369,2022-10-06 21:20:00.000000000,Richard Bryant,west,grocery,bakery,butter,South Dakota,88442,80245,548,401,7248,1038.73,19
+dbed9192,2022-10-18 14:18:10.909090912,Joshua King,south,grocery,snacks,flour,Kentucky,55035,54475,64,26,470,1701.2,2
+ecac9760,2022-10-30 07:16:21.818181824,Rebecca Deleon,east,grocery,canned goods,pasta,Connecticut,128422,105407,2116,1693,19206,79.93,11
+ccec8738,2022-11-11 00:14:32.727272728,Omar Gregory,south,grocery,canned goods,flour,North Dakota,81936,80829,136,73,898,1914.07,1
+caaa7903,2022-11-22 17:12:43.636363640,Patrick Buckley,north,grocery,produce,butter,Wisconsin,47516,41268,1147,343,4758,570.25,2
+ecbe3948,2022-12-04 10:10:54.545454544,Tara Boyd,south,grocery,bakery,butter,Rhode Island,104200,96529,461,445,6765,1755.16,7
+bbae5336,2022-12-16 03:09:05.454545456,Jacob Haynes,east,grocery,dairy,flour,Utah,134250,130620,688,276,2666,1739.9,15
+dadb0777,2022-12-27 20:07:16.363636368,Jeffrey Davis,east,grocery,bakery,eggs,Colorado,74632,72980,104,151,1397,605.88,4
+bdae1193,2023-01-08 13:05:27.272727272,Mark Patterson,north,grocery,dairy,pasta,Connecticut,116360,104784,1788,877,8911,570.82,9
+cccc2766,2023-01-20 06:03:38.181818184,Debbie Alvarez,north,grocery,dairy,sugar,South Carolina,107991,100575,411,399,6606,755.6,10
+ecdc5569,2023-01-31 23:01:49.090909096,Darren Lozano,south,grocery,produce,rice,Hawaii,60516,49801,1586,831,8298,1424.6,1
+dcbe6717,2023-02-12 16:00:00.000000000,Vanessa Baker,east,grocery,produce,milk,Maine,69383,64466,544,335,4038,1695.85,9
+bbbc6501,2023-02-24 08:58:10.909090912,Terrance Perry,north,grocery,snacks,pasta,New Hampshire,39370,34610,720,134,3906,1074.04,2
+bbba3311,2023-03-08 01:56:21.818181824,Timothy Torres,south,grocery,bakery,rice,Oklahoma,38933,38733,17,18,165,1822.62,7
+ecea1500,2023-03-19 18:54:32.727272728,Miranda Patton,south,grocery,dairy,milk,Georgia,94207,80847,1415,320,11625,917.69,3
+dede0726,2023-03-31 11:52:43.636363640,Patrick Lopez,east,grocery,bakery,flour,Mississippi,123957,102381,1488,1481,18607,1136.23,10
+bccb3708,2023-04-12 04:50:54.545454544,Jacob Haney,west,grocery,snacks,pasta,Wyoming,131879,121041,2042,774,8022,134.93,3
+cdeb0961,2023-04-23 21:49:05.454545456,Robert Harris,north,grocery,bakery,rice,Delaware,26247,22147,802,174,3124,99.88,4
+ebee2294,2023-05-05 14:47:16.363636368,Elizabeth Hunt,north,grocery,bakery,sugar,Colorado,43014,38849,271,113,3781,833.18,9
+ccdb5801,2023-05-17 07:45:27.272727280,Brandon Mendoza,north,grocery,canned goods,pasta,Washington,47205,39997,916,463,5829,1806.02,12
+adae5807,2023-05-29 00:43:38.181818192,Linda Arias,east,grocery,bakery,butter,Mississippi,112933,110546,285,72,2030,1175.04,16
+edea3490,2023-06-09 17:41:49.090909088,Anthony Romero,north,grocery,bakery,eggs,Kansas,50850,42247,440,756,7407,1437.54,20
+bccc1105,2023-06-21 10:40:00.000000000,Tammy Jimenez,north,grocery,snacks,flour,Idaho,105037,90786,1189,969,12093,1136.84,17
+cbdb1555,2023-07-03 03:38:10.909090912,James Carlson,west,grocery,canned goods,pasta,Rhode Island,50332,41499,1538,656,6639,601.6,9
+bcec6478,2023-07-14 20:36:21.818181824,Oscar Campbell Jr.,west,grocery,canned goods,bread,Virginia,59650,53689,844,258,4859,573.69,8
+dcdb7081,2023-07-26 13:34:32.727272736,Erin Jones,north,grocery,dairy,pasta,New Hampshire,89462,73158,1074,357,14873,556.91,7
+cdbb9154,2023-08-07 06:32:43.636363632,Natalie Mendoza,south,grocery,produce,bread,Alaska,83599,74108,1249,475,7767,1738.96,6
+aeeb6100,2023-08-18 23:30:54.545454544,Jeremy Henderson,west,grocery,snacks,milk,Georgia,80790,69218,1483,877,9212,1599.96,16
+caae3875,2023-08-30 16:29:05.454545456,Margaret Parker,south,grocery,produce,butter,Georgia,66930,57627,1343,736,7224,614.24,3
+abeb4809,2023-09-11 09:27:16.363636368,Matthew Cortez,west,grocery,dairy,pasta,Tennessee,94826,81362,1262,1153,11049,980.0,5
+bbea2388,2023-09-23 02:25:27.272727280,Stacey Davis,south,grocery,snacks,milk,Utah,42525,41778,92,62,593,1939.55,8
+cbcc2980,2023-10-04 19:23:38.181818192,Dana Cunningham,south,grocery,snacks,flour,Washington,117816,101957,2852,410,12597,73.75,8
+ddab1911,2023-10-16 12:21:49.090909088,Ricky Johnson,west,grocery,produce,sugar,Montana,82469,82001,50,28,390,1586.15,17
+ebdc6890,2023-10-28 05:20:00.000000000,Gregory Bates,east,grocery,produce,butter,Connecticut,109343,90812,2607,1505,14419,1822.52,4
+baaa5092,2023-11-08 22:18:10.909090912,Valerie Ramirez,north,grocery,canned goods,butter,Vermont,37123,32890,268,190,3775,1529.67,8
+adde5838,2023-11-20 15:16:21.818181824,Jeff Dennis,east,grocery,produce,bread,Iowa,53043,47598,904,318,4223,751.19,1
+ddca6743,2023-12-02 08:14:32.727272736,Brandy Koch,north,grocery,snacks,rice,Mississippi,56823,48745,498,534,7046,1940.76,9
+cbad6383,2023-12-14 01:12:43.636363632,Erik Cantrell,north,grocery,snacks,butter,Oklahoma,131212,106643,3304,1317,19948,1784.12,12
+adad3984,2023-12-25 18:10:54.545454544,Raymond Burke,east,grocery,dairy,milk,Oregon,122449,121259,142,45,1003,1568.62,17
+bbbd8167,2024-01-06 11:09:05.454545456,Keith Thomas,north,grocery,canned goods,eggs,California,22840,20473,158,112,2097,679.91,9
+cabb4249,2024-01-18 04:07:16.363636368,Jason Harris Jr.,north,grocery,snacks,sugar,Tennessee,82860,78269,523,339,3729,115.06,8
+eacb3828,2024-01-29 21:05:27.272727280,Shawn Bush MD,north,grocery,snacks,eggs,Alaska,97005,92976,572,213,3244,733.09,10
+eaca9145,2024-02-10 14:03:38.181818192,Roger Morris,south,grocery,canned goods,flour,Minnesota,34370,29935,467,352,3616,1888.19,9
+eeac0304,2024-02-22 07:01:49.090909088,Daniel Lowe,east,grocery,bakery,pasta,Massachusetts,128133,122149,645,232,5107,407.5,9
+cdda8099,2024-03-05 00:00:00.000000000,Justin Peterson,east,grocery,canned goods,butter,Massachusetts,99705,97585,358,93,1669,1776.24,7
